@@ -11,7 +11,6 @@ import time
 import urllib
 import ConfigParser
 
-
 # load config
 config = ConfigParser.RawConfigParser()
 config.read('murfiebot.cfg')
